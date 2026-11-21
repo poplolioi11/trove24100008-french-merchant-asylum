@@ -1,0 +1,135 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 2,
+  "changes": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 4,
+      "kind": "main",
+      "op": "replace",
+      "before": "使館之人差答以我是聯軍商始准入內問差將欲何為差云吾將偕爾入",
+      "after": "使館之人差答以我是聯軍商始准入內問差將欲何爲差云吾將偕爾入",
+      "reason": "原圖取爲字字形。",
+      "source_bbox": [
+        174,
+        1256,
+        463,
+        2256
+      ],
+      "source_image_sha256": "4f6a99be4ec82a56cf355fe6fd4e8b6dbcdf0c742f6b1dba6fe4389c8b36f736",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24100008"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 5,
+      "kind": "main",
+      "op": "replace",
+      "before": "見法總統該商云吾正欲晉謁我國總統蓋駐京之法總教牧謀娶太后為",
+      "after": "見法總統該商云吾正欲晉謁我國總統蓋駐京之法總教牧謀娶太后爲",
+      "reason": "原圖取爲字字形。",
+      "source_bbox": [
+        174,
+        1256,
+        463,
+        2256
+      ],
+      "source_image_sha256": "4f6a99be4ec82a56cf355fe6fd4e8b6dbcdf0c742f6b1dba6fe4389c8b36f736",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24100008"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 1,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24100008",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24100008",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 3,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24100008",
+      "status": "保留疑讀"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 1,
+      "context": "法國顛人",
+      "alternatives": [
+        "法國顛人",
+        "法國癲人"
+      ],
+      "reason": "原題右見頁，未見疒部外框，初讀留原樣。欄三與欄六同字形。",
+      "source_bbox": [
+        174,
+        1256,
+        463,
+        2256
+      ]
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "context": "內隨卽",
+      "alternatives": [
+        "內隨卽",
+        "內隨即"
+      ],
+      "reason": "刊版左部近皀，按影像保留初錄字形。",
+      "source_bbox": [
+        174,
+        1256,
+        463,
+        2256
+      ]
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 3,
+      "context": "顛房",
+      "alternatives": [
+        "顛房",
+        "癲房"
+      ],
+      "reason": "頁形右旁可見，留原形。",
+      "source_bbox": [
+        174,
+        1256,
+        463,
+        2256
+      ]
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 6,
+      "context": "顛房",
+      "alternatives": [
+        "顛房",
+        "癲房"
+      ],
+      "reason": "頁形右旁可見，留原形。",
+      "source_bbox": [
+        174,
+        1256,
+        463,
+        2256
+      ]
+    }
+  ]
+}

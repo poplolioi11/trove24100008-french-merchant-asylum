@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '法國顛人（《東華新報》1901-04-17 第2版，澳洲國家圖書館） / Fa guo dian ren [A French Man Taken to
   an Asylum]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu
