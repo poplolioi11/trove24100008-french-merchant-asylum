@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "work_key": "trove24100008",
+    "title": "法國顛人",
+    "edition": "0.1.0",
+    "language": "lzh",
+    "shelfmark": "Tung Wah News, 1901-04-17, p. 2, NLA news-page24100008",
+    "reading_order": "source columns, ordered as printed",
+    "title_policy": "Stand-alone headings in extras, inline ones in their original column",
+    "version": "0.1.0",
+    "dataset_title": "法國顛人（《東華新報》1901-04-17 第2版，澳洲國家圖書館） / Fa guo dian ren [A French Man Taken to an Asylum]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "○法國顛人　法商某從北京回國一日往梨園觀劇猝然發狂將塲中什物"
+            },
+            {
+              "text": "翻倒踐碎聲言與拳匪對敵場中執事諸多籌策乃能驅入一小房內隨卽"
+            },
+            {
+              "text": "覓得巡差擬欲昇往顛房於時該商將房門緊閉不許人進自稱乃是保護"
+            },
+            {
+              "text": "使館之人差答以我是聯軍商始准入內問差將欲何為差云吾將偕爾入"
+            },
+            {
+              "text": "見法總統該商云吾正欲晉謁我國總統蓋駐京之法總教牧謀娶太后為"
+            },
+            {
+              "text": "妻吾將入奏參劾之遂欣然同往及至顛房乃拘該商入內"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": 1,
+          "context": "顛人",
+          "candidates": [
+            "顛人",
+            "癲人"
+          ],
+          "note": "目次及正文題頭的首字可對照，初讀依無疒部的印面。"
+        },
+        {
+          "side": "single",
+          "column": 2,
+          "context": "踐碎",
+          "candidates": [
+            "踐碎",
+            "踩碎"
+          ],
+          "note": "本字左部似足，右部殘弱。"
+        },
+        {
+          "side": "single",
+          "column": 3,
+          "context": "昇往",
+          "candidates": [
+            "昇往",
+            "昇住"
+          ],
+          "note": "淡墨處待較高解析影像再核。"
+        }
+      ],
+      "observations": "原篇六欄，前一欄尾有分界符號，末欄「入內」後接版面橫線。淡墨有所標示。",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24100008",
+      "catalogue_page": 2,
+      "image_url": "https://trove.nla.gov.au/ndp/imageservice/nla.news-page24100008/level5",
+      "sha256": "4f6a99be4ec82a56cf355fe6fd4e8b6dbcdf0c742f6b1dba6fe4389c8b36f736",
+      "label": "1901-04-17 第2版",
+      "dimensions": [
+        2992,
+        3960
+      ],
+      "article_extent": [
+        174,
+        1256,
+        463,
+        2256
+      ],
+      "article_regions": [
+        [
+          174,
+          1256,
+          463,
+          2256
+        ]
+      ],
+      "content_role": "complete-article",
+      "state": "transcribed"
+    }
+  ]
+}
